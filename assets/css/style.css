@@ -22,6 +22,7 @@ header {
     font-family: var(--font-family-2);
     background-color: #2a607c;
     color: var(--white);
+    display: flex;
 }
 
 header h1 {
@@ -35,7 +36,6 @@ header h1 .seo {
 header nav {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
     font-family: var(--font-family-1);
     font-size: 20px;
 }
