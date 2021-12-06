@@ -8,7 +8,7 @@ A website that works with website owners on how to strategically reach its audie
 * CSS
 
 ## Website
-https://github.com/HozJr/fictional-engine
+https://hozjr.github.io/fictional-engine/
 
 ## Contribution
 Made with ❤️ by Tedd Hauser Jr.
